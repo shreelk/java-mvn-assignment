@@ -8,7 +8,7 @@
 </head>
 <body>
   <div class="jumbotron" style="background-color:white">
-      <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
+      <img src="https://octodex.github.com/images/stormtroopocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h2 class="text-center">Edureka Jenkins Assignment</h2>
       <p class="text-center"> </p>
